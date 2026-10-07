@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Users/hooin/OneDrive/Desktop/vs"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python-envs.defaultEnvManager": "ms-python.python:system"
+	}
+}
